@@ -115,7 +115,7 @@ Implement filters and drill-down options to allow users to explore specific regi
 https://public.tableau.com/app/profile/vamsika.sneha.varada/viz/Practiceset3Bank-CustomersDataset/BankCustomerDashboard?publish=yes
 
 
-# Snapshort of Bank-Customers Dashboard (Tableau Pubic)
+# Snapshot of Bank-Customers Dashboard (Tableau Public)
 
 ![Screenshot 2024-08-13 164256](https://github.com/user-attachments/assets/0e85a74d-514b-4745-ba81-e91a3293743d) 
 
