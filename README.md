@@ -33,23 +33,35 @@ Visualization Creation:
 
 𝐏𝐢𝐞 𝐂𝐡𝐚𝐫𝐭 𝐟𝐨𝐫 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐁𝐚𝐥𝐚𝐧𝐜𝐞 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧:
 Created a pie chart to show the total balance in each region (East, West, North, South).
-Displayed the percentage of the total balance for each region using the Percent of Total calculation.
+Displayed the percentage of the total balance for each region using the Percent of Total calculation. 
+
+
+![Screenshot 2024-08-13 170128](https://github.com/user-attachments/assets/5a040903-e53e-40a9-b735-d2323195fc33)
 
 𝐁𝐚𝐫 𝐂𝐡𝐚𝐫𝐭 𝐟𝐨𝐫 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐛𝐲 𝐆𝐞𝐧𝐝𝐞𝐫:
 Built a bar chart to show the number of customers by gender.
 Added colors (Red for Female, Green for Male) and labels to display the distinct count of male and female customers.
 
+![Screenshot 2024-08-13 170142](https://github.com/user-attachments/assets/f6fd4edb-a7d5-40d2-8a36-54782a871b28)
+
+
 𝐆𝐫𝐚𝐩𝐡 𝐟𝐨𝐫 𝐉𝐨𝐛 𝐂𝐥𝐚𝐬𝐬 𝐚𝐧𝐝 𝐁𝐚𝐥𝐚𝐧𝐜𝐞 𝐛𝐲 𝐑𝐞𝐠𝐢𝐨𝐧:
 Created a graph to show which job class has the highest and lowest sum of balance in each region.
 Displayed both maximum and minimum balance values for each region.
+
+![Screenshot 2024-08-13 170156](https://github.com/user-attachments/assets/0f1defaa-2ad4-455e-9a3b-538b4fc1c3e3)
 
 𝐓𝐚𝐛𝐥𝐞 𝐟𝐨𝐫 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐁𝐚𝐥𝐚𝐧𝐜𝐞 𝐛𝐲 𝐆𝐞𝐧𝐝𝐞𝐫:
 Used a calculated field to determine the average balance for male and female customers.
 Presented the results in a table format with columns for Gender and Average Balance.
 
+![Screenshot 2024-08-13 170724](https://github.com/user-attachments/assets/2a64125d-f4a2-46d2-9684-583ed2ce903c)
+
 𝐒𝐜𝐚𝐭𝐭𝐞𝐫 𝐏𝐥𝐨𝐭 𝐟𝐨𝐫 𝐀𝐠𝐞 𝐯𝐬. 𝐁𝐚𝐥𝐚𝐧𝐜𝐞:
 Created a scatter plot with Age on the x-axis and Balance on the y-axis.
 Used shapes to represent different job classifications and colored the data points based on gender.
+
+![Screenshot 2024-08-13 170220](https://github.com/user-attachments/assets/e7fca03d-7a93-457b-b9da-140bdd45d761)
 
 
 
@@ -98,7 +110,7 @@ Implement filters and drill-down options to allow users to explore specific regi
 𝑻𝒉𝒊𝒔 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 𝒂𝒊𝒎𝒆𝒅 𝒕𝒐 𝒆𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒏𝒅 𝒗𝒊𝒔𝒖𝒂𝒍𝒊𝒛𝒆 𝒌𝒆𝒚 𝒂𝒔𝒑𝒆𝒄𝒕𝒔 𝒐𝒇 𝒕𝒉𝒆 𝒃𝒂𝒏𝒌'𝒔 𝒄𝒖𝒔𝒕𝒐𝒎𝒆𝒓 𝒅𝒂𝒕𝒂𝒔𝒆𝒕 𝒕𝒐 𝒈𝒂𝒊𝒏 𝒊𝒏𝒔𝒊𝒈𝒉𝒕𝒔 𝒊𝒏𝒕𝒐 𝒄𝒖𝒔𝒕𝒐𝒎𝒆𝒓 𝒅𝒆𝒎𝒐𝒈𝒓𝒂𝒑𝒉𝒊𝒄𝒔, 𝒇𝒊𝒏𝒂𝒏𝒄𝒊𝒂𝒍 𝒃𝒆𝒉𝒂𝒗𝒊𝒐𝒓, 𝒂𝒏𝒅 𝒓𝒆𝒈𝒊𝒐𝒏𝒂𝒍 𝒅𝒊𝒔𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏. 𝑻𝒉𝒆 𝒗𝒊𝒔𝒖𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏𝒔 𝒉𝒆𝒍𝒑 𝒊𝒏 𝒖𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈 𝒕𝒉𝒆 𝒅𝒊𝒔𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏 𝒐𝒇 𝒂𝒄𝒄𝒐𝒖𝒏𝒕 𝒃𝒂𝒍𝒂𝒏𝒄𝒆𝒔, 𝒄𝒖𝒔𝒕𝒐𝒎𝒆𝒓 𝒅𝒆𝒎𝒐𝒈𝒓𝒂𝒑𝒉𝒊𝒄𝒔 𝒃𝒚 𝒈𝒆𝒏𝒅𝒆𝒓, 𝒋𝒐𝒃 𝒄𝒍𝒂𝒔𝒔 𝒑𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝒂𝒄𝒓𝒐𝒔𝒔 𝒓𝒆𝒈𝒊𝒐𝒏𝒔, 𝒂𝒗𝒆𝒓𝒂𝒈𝒆 𝒃𝒂𝒍𝒂𝒏𝒄𝒆𝒔 𝒃𝒚 𝒈𝒆𝒏𝒅𝒆𝒓, 𝒂𝒏𝒅 𝒕𝒉𝒆 𝒓𝒆𝒍𝒂𝒕𝒊𝒐𝒏𝒔𝒉𝒊𝒑 𝒃𝒆𝒕𝒘𝒆𝒆𝒏 𝒂𝒈𝒆 𝒂𝒏𝒅 𝒃𝒂𝒍𝒂𝒏𝒄𝒆.
 
 
-# Live Dashboard Access 
+# URL for the Dashboard  
 
 https://public.tableau.com/app/profile/vamsika.sneha.varada/viz/Practiceset3Bank-CustomersDataset/BankCustomerDashboard?publish=yes
 
@@ -106,4 +118,10 @@ https://public.tableau.com/app/profile/vamsika.sneha.varada/viz/Practiceset3Bank
 # Snapshort of Amazon Sales Dashboard (Tableau Pubic)
 
 ![Screenshot 2024-08-13 164256](https://github.com/user-attachments/assets/0e85a74d-514b-4745-ba81-e91a3293743d) 
+
+
+
+
+
+
 
